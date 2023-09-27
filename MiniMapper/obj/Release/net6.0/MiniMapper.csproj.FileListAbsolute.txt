@@ -1,0 +1,12 @@
+C:\Technovert Projects\Learnings\nuget_package\MiniMapper\MiniMapper\bin\Release\net6.0\MiniMapper.deps.json
+C:\Technovert Projects\Learnings\nuget_package\MiniMapper\MiniMapper\bin\Release\net6.0\MiniMapper.dll
+C:\Technovert Projects\Learnings\nuget_package\MiniMapper\MiniMapper\bin\Release\net6.0\MiniMapper.pdb
+C:\Technovert Projects\Learnings\nuget_package\MiniMapper\MiniMapper\obj\Release\net6.0\MiniMapper.csproj.AssemblyReference.cache
+C:\Technovert Projects\Learnings\nuget_package\MiniMapper\MiniMapper\obj\Release\net6.0\MiniMapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Technovert Projects\Learnings\nuget_package\MiniMapper\MiniMapper\obj\Release\net6.0\MiniMapper.AssemblyInfoInputs.cache
+C:\Technovert Projects\Learnings\nuget_package\MiniMapper\MiniMapper\obj\Release\net6.0\MiniMapper.AssemblyInfo.cs
+C:\Technovert Projects\Learnings\nuget_package\MiniMapper\MiniMapper\obj\Release\net6.0\MiniMapper.csproj.CoreCompileInputs.cache
+C:\Technovert Projects\Learnings\nuget_package\MiniMapper\MiniMapper\obj\Release\net6.0\MiniMapper.dll
+C:\Technovert Projects\Learnings\nuget_package\MiniMapper\MiniMapper\obj\Release\net6.0\refint\MiniMapper.dll
+C:\Technovert Projects\Learnings\nuget_package\MiniMapper\MiniMapper\obj\Release\net6.0\MiniMapper.pdb
+C:\Technovert Projects\Learnings\nuget_package\MiniMapper\MiniMapper\obj\Release\net6.0\ref\MiniMapper.dll

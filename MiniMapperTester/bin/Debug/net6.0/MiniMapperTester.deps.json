@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MiniMapperTester/1.0.0": {
+        "dependencies": {
+          "MiniMapper": "1.0.0"
+        },
+        "runtime": {
+          "MiniMapperTester.dll": {}
+        }
+      },
+      "MiniMapper/1.0.0": {
+        "runtime": {
+          "MiniMapper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MiniMapperTester/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MiniMapper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
